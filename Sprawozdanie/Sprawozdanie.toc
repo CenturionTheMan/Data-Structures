@@ -1,0 +1,22 @@
+\babel@toc {polish}{}\relax 
+\contentsline {section}{\numberline {1}Wstęp}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Zarys projektu}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Struktury danych}{3}{}%
+\contentsline {subsubsection}{\numberline {1.2.1}Zaimplementowane struktury i operacje}{3}{}%
+\contentsline {subsubsection}{\numberline {1.2.2}Teoretyczne złożoności obliczeniowe}{3}{}%
+\contentsline {subsubsection}{\numberline {1.2.3}Złożoność obliczeniowa operacji w tablicy dynamicznej}{4}{}%
+\contentsline {subsubsection}{\numberline {1.2.4}Złożoność obliczeniowa operacji w liscie dwukierunkowej}{4}{}%
+\contentsline {subsubsection}{\numberline {1.2.5}Złożoność obliczeniowa operacji w kopcu binarnym}{4}{}%
+\contentsline {subsubsection}{\numberline {1.2.6}Złożoność obliczeniowa operacji w drzewie czerwono-czarnym}{4}{}%
+\contentsline {section}{\numberline {2}Plan eksperymentu}{4}{}%
+\contentsline {subsection}{\numberline {2.1}Założenia}{4}{}%
+\contentsline {subsection}{\numberline {2.2}Pomiar czasu}{5}{}%
+\contentsline {subsection}{\numberline {2.3}Losowanie populacji}{5}{}%
+\contentsline {section}{\numberline {3}Zestawienie wyników}{5}{}%
+\contentsline {subsection}{\numberline {3.1}Wyniki testów dla tablicy dynamicznej}{5}{}%
+\contentsline {subsection}{\numberline {3.2}Wyniki testów dla listy dwukierunkowej}{8}{}%
+\contentsline {subsection}{\numberline {3.3}Wyniki testów dla kopca binarnego}{11}{}%
+\contentsline {subsection}{\numberline {3.4}Wyniki testów dla drzewa czerwono-czarnego}{13}{}%
+\contentsline {section}{\numberline {4}Wnioski}{14}{}%
+\contentsline {subsection}{\numberline {4.1}Przykładowe wyliczenia}{14}{}%
+\contentsline {subsection}{\numberline {4.2}Komentarz}{17}{}%
